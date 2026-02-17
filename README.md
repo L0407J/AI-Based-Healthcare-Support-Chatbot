@@ -1,6 +1,6 @@
 # Intelligent First-Aid & Medical Assistance System 🏥🤖
 
-## 📌 Project Overview
+## Project Overview
 This project implements a Machine Learning–based healthcare decision support system that predicts patient condition severity and recommends appropriate medical action.
 
 The system:
@@ -13,7 +13,7 @@ The system:
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Perform exploratory data analysis (EDA)
 - Build and compare multiple ML models
 - Classify patient severity levels
@@ -22,7 +22,7 @@ The system:
 
 ---
 
-## 📊 Dataset Information
+## Dataset Information
 - 2000 simulated patient records
 - Structured healthcare dataset
 - Features include:
@@ -37,7 +37,7 @@ The system:
 
 ---
 
-## 🛠 Technologies & Libraries Used
+## Technologies & Libraries Used
 - Python (3.9+)
 - Pandas
 - NumPy
@@ -51,7 +51,7 @@ The system:
 
 ---
 
-## 🔍 Machine Learning Approach
+## Machine Learning Approach
 
 ### Problem Type:
 Multi-class Classification
@@ -73,7 +73,7 @@ Random Forest & Gradient Boosting
 
 ---
 
-## 🏥 Severity-Based Decision Logic
+## Severity-Based Decision Logic
 
 🟢 Mild  
 - First-aid advice  
@@ -91,7 +91,7 @@ Hospital routing is performed using OpenStreetMap data and geodesic distance cal
 
 ---
 
-## ⚙️ How to Run the Project
+## How to Run the Project
 
 1. Place the following files in the same folder:
    - Final_project_code.ipynb
